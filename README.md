@@ -12,7 +12,7 @@
 
 ## Демо
 
-Посмотреть демо: [GitHub Pages](https://leshapopovkin.github.io/soft_update/)
+Посмотреть демо: [GitHub Pages](https://le5ha.github.io/soft_update/)
 
 ## Технологии
 
